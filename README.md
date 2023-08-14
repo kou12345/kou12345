@@ -1,5 +1,10 @@
-[![kou12345's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou12345)](https://github.com/anuraghazra/github-readme-stats)
+## my skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,prisma,nextjs,docker,mysql,git,github,vscode,markdown)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kou12345)](https://github.com/ryo-ma/github-profile-trophy)
+## Status
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kou12345&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kou12345" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou12345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsuki-lab&margin-w=5)](https://github.com/kou12345/)
