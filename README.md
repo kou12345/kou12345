@@ -1,5 +1,5 @@
 ## my skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,prisma,nextjs,docker,mysql,git,github,vscode,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,prisma,nextjs,docker,mysql,postgres,supabase,git,github,vscode,markdown)](https://skillicons.dev)
 
 ## Status
 <p align="left"> 
