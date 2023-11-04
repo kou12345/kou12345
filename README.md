@@ -1,5 +1,5 @@
 ## my skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,prisma,nextjs,docker,mysql,postgres,supabase,git,github,vscode,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,python,prisma,nextjs,docker,mysql,postgres,sqlite,supabase,git,github,vscode,markdown)](https://skillicons.dev)
 
 ## Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou12345&theme=github_dark)
